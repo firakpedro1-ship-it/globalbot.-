@@ -10,8 +10,12 @@
  "lint": "eslint ."
  },
  "keywords": [],
- "author": "firak <firakpedro1@gmail.com>",
+ "author": "Seu Nome <seu@email.com>",
  "license": "MIT",
- "dependencies":{//"express":"^4.18.2"},
- "devDependencies":{
- //"nodemon":"^2.0.22","eslint":"^8.0.0"}}
+ "dependencies": {
+ // exemplo: "express": "^4.18.2"
+ },
+ "devDependencies": {
+ // exemplo: "nodemon": "^2.0.22", "eslint": "^8.0.0"
+ }
+}
