@@ -1,15 +1,17 @@
 {
-  "name": "globalbot",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "14.0.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  }
-}
+ "name": "globalbot",
+ "version": "1.0.0",
+ "description": "Descrição do projeto",
+ "main": "index.js",
+ "scripts": {
+ "start": "node index.js",
+ "dev": "nodemon index.js",
+ "test": "echo \"No tests specified\" && exit 0",
+ "lint": "eslint ."
+ },
+ "keywords": [],
+ "author": "firak <firakpedro1@gmail.com>",
+ "license": "MIT",
+ "dependencies":{//"express":"^4.18.2"},
+ "devDependencies":{
+ //"nodemon":"^2.0.22","eslint":"^8.0.0"}}
