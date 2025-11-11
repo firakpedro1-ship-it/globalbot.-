@@ -7,8 +7,8 @@ yarn-error.log*
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+{"lighthouseVersion":"11.5.0","requestedUrl":"https://seu-dominio.vercel.app","finalUrl":"https://seu-dominio.vercel.app","categories":{"performance":{"score":0.92},"accessibility":{"score":0.98},"seo":{"score":0.89}},"audits":{...}}
 # Runtime data
 pids
 *.pid
